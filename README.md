@@ -25,7 +25,7 @@ Bu motor, bir optik formun okunması için gereken tüm görüntü işleme adım
 
 Aşağıdaki görselde, programın bir optik formu nasıl işlediği, işaretleri nasıl algıladığı ve puanlamayı nasıl hesapladığı görülmektedir.
 
-![Optik Form Okuma Sonucu](screenshots/example_output.png)
+![Optik Form Okuma Sonucu](screenshots/example_output.jpeg)
 
 ## 📦 Kurulum ve Çalıştırma
 
