@@ -21,6 +21,7 @@ Bu motor, bir optik formun okunması için gereken tüm görüntü işleme adım
     * *OpenCV*
 
 ---
+
 ## 📷 Örnek Çalışma Çıktısı
 
 Aşağıdaki görselde, programın bir optik formu nasıl işlediği, işaretleri nasıl algıladığı ve puanlamayı nasıl hesapladığı görülmektedir.
